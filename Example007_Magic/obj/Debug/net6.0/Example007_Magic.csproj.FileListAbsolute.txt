@@ -1,0 +1,15 @@
+/Users/user/Desktop/GB/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic
+/Users/user/Desktop/GB/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.deps.json
+/Users/user/Desktop/GB/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.runtimeconfig.json
+/Users/user/Desktop/GB/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.dll
+/Users/user/Desktop/GB/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.pdb
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.AssemblyReference.cache
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfoInputs.cache
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfo.cs
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.dll
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/refint/Example007_Magic.dll
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.pdb
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.genruntimeconfig.cache
+/Users/user/Desktop/GB/Examples/Example007_Magic/obj/Debug/net6.0/ref/Example007_Magic.dll
