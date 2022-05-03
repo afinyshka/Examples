@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите два числа: ");
+Console.WriteLine("Введите два числа: ");
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
 int max = a;
