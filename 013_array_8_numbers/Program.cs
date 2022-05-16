@@ -26,7 +26,35 @@ void PrintArray(int[] col)
 
 
 int [] array = new int[8];
+Console.WriteLine("enter array numbers: ");
+array[0] = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("enter array numbers: ");
+array[1] = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("enter array numbers: ");
+array[2] = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("enter array numbers: ");
+array[3] = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("enter array numbers: ");
+array[4] = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("enter array numbers: ");
+array[5] = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("enter array numbers: ");
+array[6] = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("enter array numbers: ");
+array[7] = int.Parse(Console.ReadLine() ?? "0");
 
-FillArray(array);
+//FillArray(array);
 Console.WriteLine();
-PrintArray(array);
+
+Console.WriteLine($"{array[0]}, {array[1]}, {array[2]}, {array[3]}, {array[4]}, {array[5]}, {array[6]}, {array[7]}");
+
+// Console.WriteLine(array[0]);
+// Console.WriteLine(array[1]);
+// Console.WriteLine(array[2]);
+// Console.WriteLine(array[3]);
+// Console.WriteLine(array[4]);
+// Console.WriteLine(array[5]);
+// Console.WriteLine(array[6]);
+// Console.WriteLine(array[7]);
+
+//PrintArray(array);
