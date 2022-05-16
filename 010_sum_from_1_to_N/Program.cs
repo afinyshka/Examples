@@ -1,4 +1,5 @@
 ﻿// Показать таблицу квадратов чисел от 1 до N
+Console.WriteLine("Enter number: ");
 int number = int.Parse(Console.ReadLine() ?? "0");
 int number1 = 1;
 int sum = 0;
