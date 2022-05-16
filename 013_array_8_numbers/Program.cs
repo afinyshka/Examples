@@ -46,7 +46,7 @@ array[7] = int.Parse(Console.ReadLine() ?? "0");
 //FillArray(array);
 Console.WriteLine();
 
-Console.WriteLine($"{array[0]}, {array[1]}, {array[2]}, {array[3]}, {array[4]}, {array[5]}, {array[6]}, {array[7]}");
+Console.WriteLine($"array = {array[0]}, {array[1]}, {array[2]}, {array[3]}, {array[4]}, {array[5]}, {array[6]}, {array[7]}");
 
 // Console.WriteLine(array[0]);
 // Console.WriteLine(array[1]);
@@ -58,3 +58,20 @@ Console.WriteLine($"{array[0]}, {array[1]}, {array[2]}, {array[3]}, {array[4]}, 
 // Console.WriteLine(array[7]);
 
 //PrintArray(array);
+
+// from Stoyn
+//Console.Clear();
+Console.WriteLine("Задать массив из 8 элементов и вывести их на экран");
+Console.Write("Введите размер массива: ");
+int arrSize =  int.Parse(Console.ReadLine() ?? "0"); 
+int[] array1 = new int[arrSize];
+for (int i=0; i<arrSize; i++) array1[i] = new Random().Next(0,100);
+int count = 1;
+Console.Write($"array1 = ");
+foreach (int k in array1)
+{
+    //Console.WriteLine($"{count} элемент массива - {k}");
+    Console.Write($"{k}, ");
+    count++; 
+}
+Console.WriteLine();
